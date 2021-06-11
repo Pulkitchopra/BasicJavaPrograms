@@ -1,3 +1,6 @@
+public class Practice {
+
+	public static void main(String[] args) {
 int sum=0;
 int n=4;
 for(int i=0;i<n;i++){
@@ -5,3 +8,5 @@ for(int i=0;i<n;i++){
      }
 System.out.print("Sum of even numbers is: ");
 System.out.println(sum);
+    }
+}
